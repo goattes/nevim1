@@ -57,7 +57,7 @@ namespace druhahodina
             }
             if (a < 5)
             {
-                Console.WriteLine("A je menší než 5");
+                Console.WriteLine("lol");
             }
 Console.ReadKey();
         }

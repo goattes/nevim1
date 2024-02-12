@@ -57,7 +57,7 @@ namespace druhahodina
             }
             if (a < 5)
             {
-                Console.WriteLine("lol");
+                Console.WriteLine("DGADZABGDAZDAWDZAGDADBADYUSDADUADAUDHAWUAZUDGA");
             }
 Console.ReadKey();
         }
